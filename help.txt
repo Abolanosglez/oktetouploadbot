@@ -12,11 +12,8 @@ Pasos para generar los link de descarga con el bot
 @Link4FilesBot
 @tg_file_link_bot u otro que encuentres hay varios
 Y unirse al canal de el bot 
-
 2/Buscar el video/apk etc.. lo q quiere descargar y reenviarlo(deje presionado y use el botón reenviar y luego seleccione el chat a reenviar) a uno de esos bot
-
 Para reenviar los videos al bot solamente tocas al lado del video/apk etc.. y tocas (reenviar) en las opciones luego seleccionas el bot y renvias
-
 3/ el bot le dara un link el cual usted debe copiar y luego pegar en su bot de descarga(este) y el bot comensara a trabajar
 ———————————————-——-
 ⚙️Administrador⚙️
